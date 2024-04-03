@@ -186,6 +186,7 @@ header .website-logo span {
   margin-top: 60px;
   margin-inline: auto;
   border-radius: 20px;
+  border: none;
 }
 
 /* MOVIE LINKS SECTION */
